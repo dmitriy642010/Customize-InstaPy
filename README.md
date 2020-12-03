@@ -1,2 +1,2 @@
 # Customize-InstaPy
- This is my version of Instapy that evryone could use for fun
+ This is my version of Instapy that everyone could use for fun
